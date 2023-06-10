@@ -1,0 +1,30 @@
+{
+  "name": "@mutruva/log-in",
+  "version": "1.0.31",
+  "description": "Mutruva Log In component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lawsonhung/mutruva-log-in.git"
+  },
+  "keywords": [
+    "React",
+    "Log-in",
+    "Mutruva",
+    "Typescript"
+  ],
+  "author": "Lawson Hung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawsonhung/mutruva-log-in/issues"
+  },
+  "homepage": "https://github.com/lawsonhung/mutruva-log-in#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.9",
+    "react": "^18.2.0",
+    "typescript": "^5.1.3"
+  }
+}
